@@ -6,3 +6,10 @@
 - * L03- Support Vector Machine: including sklean implementation
 - * L04- Deep Learning: including hand-written and TensorFlow implementation
 - * L05- Reinforcement Learning with Matlab Implementation
+- * L06- Model Predictive Control Design based on Deep Learning Models
+
+
+# Versions:
+- Tested with Matlab 2021a and 2022a
+- Developed with TensorFlow 2.8 
+- Develop with Python 3 and compatible with Google Collaboratory
