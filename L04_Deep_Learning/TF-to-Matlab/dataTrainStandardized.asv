@@ -1,7 +1,0 @@
-function [data_n, mu, sig] = dataTrainStandardized(data)
-min_data = min(data);
-sig = max(data);
-
-data_n = (data - mu) / sig;
-end
-
