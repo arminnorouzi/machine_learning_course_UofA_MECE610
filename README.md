@@ -1,26 +1,29 @@
 # Machine Learning Course (MECE 610)
 ## University of Alberta
 
-- This course developed by **Armin Norouzi** under supervison of main instructors
+- This course was developed by **Armin Norouzi** under the supervision of the primary instructors
 
 -Table of content: 
-- **L01** Machine Learning Basics: Linear regression, Logistic regression for classific, and k-means algorithm
-- **L02** Artificial Neural Network: Including hand-written and scikit-learn implementation
-- **L03** Support Vector Machine: including scikit-learn implementation
-- **L04** Deep Learning: including hand-written and Matlab implementation
-- **L05** Reinforcement Learning with Matlab Implementation
-- **L06** Model Predictive Control Design based on Deep Learning Models
-- **L07** Deep Learning using PyTorch:
-    - **L07a** Introduction to Pytorch
-    - **L07b** Convolutional Neural Network using PyTorch
-    - **L07c** Recurrent Neural Network using PyTorch
-    - **L07d** Natural Language Processing using PyTorch
-- **L08** Deep Learning using TensorFlow:
-    - **L07a** Introduction to TensorFlow
-    - **L07b** Convolutional Neural Network using TensorFlow
-    - **L07c** Recurrent Neural Network using TensorFlow
-    - **L07d** Natural Language Processing using TensorFlow
-
+- **L01** Machine Learning Basics: Including hand-written and scikit-learn implementation
+    - Linear regression 
+    - Logistic regression 
+    - k-means algorithm
+    - Support Vector Machine
+- **L02** Artificial Neural Network Basics: Including hand-written and scikit-learn implementation
+- **L03** Deep Learning: Including theory and hand-written
+- **L04** Deep Learning using TensorFlow:
+    - **L04a** Introduction to TensorFlow
+    - **L04b** Convolutional Neural Network using TensorFlow
+    - **L04c** Recurrent Neural Network using TensorFlow
+    - **L04d** Natural Language Processing using TensorFlow
+- **L05** Deep Learning using PyTorch:
+    - **L05a** Introduction to Pytorch
+    - **L05b** Convolutional Neural Network using PyTorch
+    - **L05c** Recurrent Neural Network using PyTorch
+    - **L05d** Natural Language Processing using PyTorch
+- **L05** Deep Reinforcement Learning with Matlab Implementation
+    - **L07a** Model-based approach: Deep Model Predictive Control 
+    - **L07b** Model-free approach: Deep Reinforcement Learning
 
 # Notes:
 - Tested with Matlab 2021a and 2022a
