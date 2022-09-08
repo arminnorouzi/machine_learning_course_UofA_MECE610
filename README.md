@@ -3,7 +3,8 @@
 
 - This course was developed by **Armin Norouzi**
 
--Table of content: 
+- **Table of content:** 
+
 - **L01** Machine Learning Basics: Including hand-written and scikit-learn implementation
     - **L01a** Introduction_to-Machine_Learning: Linear regression, Logistic regression, and k-means algorithm
     - **L01b**  Support Vector Machine for regression and classification
