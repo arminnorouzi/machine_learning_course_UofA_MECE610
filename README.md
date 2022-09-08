@@ -1,5 +1,5 @@
-# Machine Learning Course (MECE 610)
-## University of Alberta
+# Machine Learning Course 
+## University of Alberta (MECE 610)
 
 - This course was developed by **Armin Norouzi**
 
@@ -9,19 +9,19 @@
     - **L01b**  Support Vector Machine for regression and classification
 - **L02** Artificial Neural Network Basics: Including hand-written and scikit-learn implementation
 - **L03** Deep Learning: Including theory and hand-written
-- **L04** Deep Learning using TensorFlow:
+- **L04** Deep Learning with TensorFlow:
     - **L04a** Introduction to TensorFlow
-    - **L04b** Convolutional Neural Network using TensorFlow
-    - **L04c** Recurrent Neural Network using TensorFlow
-    - **L04d** Natural Language Processing using TensorFlow
-- **L05** Deep Learning using PyTorch:
+    - **L04b** Convolutional Neural Network with TensorFlow
+    - **L04c** Recurrent Neural Network with TensorFlow
+    - **L04d** Natural Language Processing with TensorFlow
+- **L05** Deep Learning with PyTorch:
     - **L05a** Introduction to PyTorch
-    - **L05b** Convolutional Neural Network using PyTorch
-    - **L05c** Recurrent Neural Network using PyTorch
-    - **L05d** Natural Language Processing using PyTorch
-- **L06** Transfer Learning using PyTorch and TensforFlow
-    - **L06a** Transfer Learning using TensforFlow
-    - **L06b** Transfer Learning using PyTorch
+    - **L05b** Convolutional Neural Network with PyTorch
+    - **L05c** Recurrent Neural Network with PyTorch
+    - **L05d** Natural Language Processing with PyTorch
+- **L06** Transfer Learning with PyTorch and TensforFlow
+    - **L06a** Transfer Learning with TensforFlow
+    - **L06b** Transfer Learning with PyTorch
 
 # Notes:
 - Developed with TensorFlow 2.8.2
