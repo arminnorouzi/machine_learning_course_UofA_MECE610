@@ -18,8 +18,6 @@
 - **L05** Deep Learning with PyTorch:
     - **L05a** Introduction to PyTorch
     - **L05b** Convolutional Neural Network with PyTorch
-    - **L05c** Recurrent Neural Network with PyTorch
-    - **L05d** Natural Language Processing with PyTorch
 - **L06** Transfer Learning with PyTorch and TensforFlow
     - **L06a** Transfer Learning with TensforFlow
     - **L06b** Transfer Learning with PyTorch
