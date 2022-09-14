@@ -1,7 +1,7 @@
 # Machine Learning Course 
 ## University of Alberta (MECE 610)
 
-### This course was developed by **Armin Norouzi**
+This course was developed by **Armin Norouzi**
 
 ### **Table of content:** 
 
